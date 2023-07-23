@@ -1,5 +1,4 @@
 # Doctor-Application
-
 >The Doctor-Patient project is a web application built using Spring Boot that facilitates the interaction between doctors and patients. The main goal of the project is to provide a platform where patients can schedule appointments with doctors, and doctors can manage their appointments efficiently. The application also includes a secure authentication system to ensure data privacy and security.
 ---
 ## Frameworks and Languages
