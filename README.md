@@ -7,7 +7,7 @@ This project is developed using the following frameworks and languages:
 * **Spring Boot:** A Java-based framework for building web applications.
 * **Spring MVC:** A module of the Spring Framework that supports building web applications.
 * **Java:** The programming language used for backend development.
-* **Hibernate:** An Object-Relational Mapping (ORM) framework used for database interactions.
+* **Hibernate** An Object-Relational Mapping (ORM) framework used for database interactions.
 * **MySQL:** The chosen database management system.
 ---
 ## Project Structure
